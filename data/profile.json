@@ -1,0 +1,30 @@
+{
+  "name": "Anna Alexandre Olimpio do Carmo",
+  "role": "Analista backend de Engenharia TI",
+  "bio": "mas pode me chamar de Anna Olímpio e moro em Lavras - MG. Sou Bióloga de formação, agora engenheira de software em construção!",
+  "about": "Esta página web foi desenvolvida como parte do desafio final da disciplina de Front-end I. Busco aprimorar meus conhecimentos em Front-end e desenvolver projetos úteis e relevantes.",
+  "photo": "assets/img/avatar.jpg",
+  "location": "Minas Gerais, Brasil",
+  "languages": ["Português (BR)", "Inglês"],
+  "email": "annaolimpioc@gmail.com",
+  "phone": "+55 35 999060579",
+  "socials": {
+    "LinkedIn": "https://www.linkedin.com/in/annaolimpio",
+    "GitHub": "https://github.com/annaolc",
+    "Instagram": "",
+    "Website": ""
+  },
+  "skills": [
+    "Python", "AWS", "HTML", "CSS", "JavaScript", "React", "Node.js", "UI/UX"
+  ],
+  "projects": [
+    {
+      "title": "Portfolio Pessoal",
+      "description": "Site pessoal responsivo desenvolvido com HTML, CSS e JavaScript puro para o desafio final de Front-end I.",
+      "technologies": ["HTML5", "CSS3", "JavaScript", "Responsive Design"],
+      "demo": "https://annaolc.github.io/portfolio",
+      "repo": "https://github.com/annaolc/portfolio"
+    }
+  ],
+  "theme": "dark"
+}
