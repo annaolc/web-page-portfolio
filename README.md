@@ -9,7 +9,6 @@
 - `extra.html`: artigo extra.
 - `assets/css/styles.css`: estilos e temas.
 - `assets/img/avatar.jpg`: imagem.
-- `assets/js/main.js`: funcionalidades.
 - `data/profile.json`: dados.
 
 ## Vídeo 
