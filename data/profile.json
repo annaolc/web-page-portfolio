@@ -22,8 +22,8 @@
       "title": "Portfolio Pessoal",
       "description": "Site pessoal responsivo desenvolvido com HTML, CSS e JavaScript puro para o desafio final de Front-end I.",
       "technologies": ["HTML5", "CSS3", "JavaScript", "Responsive Design"],
-      "demo": "https://annaolc.github.io/portfolio",
-      "repo": "https://github.com/annaolc/portfolio"
+      "demo": "https://github.com/annaolc/web-page-portfolio",
+      "repo": "https://github.com/annaolc/web-page-portfolio"
     }
   ],
   "theme": "dark"
