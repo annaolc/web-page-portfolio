@@ -10,6 +10,3 @@
 - `assets/css/styles.css`: estilos e temas.
 - `assets/img/avatar.jpg`: imagem.
 - `data/profile.json`: dados.
-
-## Vídeo 
-- 
